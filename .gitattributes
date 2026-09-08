@@ -1,0 +1,5 @@
+*.mpr binary
+*.mxunit binary
+*.mpk binary
+*.jar binary
+* text=auto

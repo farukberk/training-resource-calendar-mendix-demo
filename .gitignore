@@ -5,10 +5,12 @@
 /.mendix-cache/
 /.classpath
 /.project
-/trtrainingcalendartest.mpr.bak
-/trtrainingcalendartest.mpr.lock
+/*.mpr.bak
+/*.mpr.lock
 /modeler-merge-marker
 /project-settings.user.json
+/.env
+/.env.*
 /javasource/*/proxies/
 /javasource/system/
 /**/node_modules/
